@@ -9,7 +9,7 @@
 
 ## 🔭 I’m currently working on ...
 - CTS-IT projects 👀 
-- My Travel [Website 🌍](https://karanasthaba.github.io/travel/)
+- My Travel [Website 🌍](https://karanasthana.github.io/travel/)
 
 ## 🌱 I’m currently learning ...
 - Competitive Coding (DSA) 💩 ([Check out my Leetcode repo](https://github.com/karanasthana/leetcode))
@@ -18,8 +18,8 @@
 - R
 
 ## 👯 I’m looking to collaborate on ...
-- Welcome any tips on my [travelogue](https://karanasthaba.github.io/travel/)
-- Welcome any tips on my [portfolio](https://karanasthaba.github.io/portfolio/)
+- Welcome any tips on my [travelogue](https://karanasthana.github.io/travel/)
+- Welcome any tips on my [portfolio](https://karanasthana.github.io/portfolio/)
 
 ## 💬 Ask me about ...
 - Anything Javascript
