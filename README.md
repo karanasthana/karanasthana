@@ -15,7 +15,8 @@
 - Competitive Coding (DSA) 💩 ([Check out my Leetcode repo](https://github.com/karanasthana/leetcode))
 - JAVACRIPT 🤓 (always learning JS 🌚)
 - Python 
-- R
+- Erlang
+- Advanced Data Structures
 
 ## 👯 I’m looking to collaborate on ...
 - Welcome any tips on my [travelogue](https://karanasthana.github.io/travel/)
